@@ -32,26 +32,30 @@
 
 ## Brief User Guide:
 #### You can run the program and use 'help' command to see a more formatted output.
->
-> #### Commands available:
->
+> Commands available:
+> 
 > exit
->    Terminate the program.
->
+>     Terminate the program.
+> 
 > help
->    Print the instructions for the program. 
->    
+>     Print the instructions for the program. 
+>     
 > all
->    Print the weather conditions of every city in the database.
->
-> city (CityName)
->    Show the weather conditions of a city. 
->    The parameter (CityName) is required. For example: Ann Arbor, New York, Chicago, Washington DC
->
-> country (CountryName)
->    Show the weather conditions of cities in a country.
->    The parameter (CountryName) is required. For example: USA, Canada, United Kingdom, Germany
->
-> region (RegionName)
->    Show the weather conditions of cities in a region.
->    The parameter (RegionName) is required. For example: Asia, Europe, Americas, Africa
+>     Print the weather conditions of every city in the database.
+> 
+> city <CityName>
+>     Show the weather conditions of a city. 
+>     The parameter <CityName> is required. For example: Ann Arbor, New York, Chicago, Washington DC
+> 
+> flask city <CityName>
+>     Show the weather conditions of a city. 
+>     The parameter <CityName> is required. For example: Ann Arbor, New York, Chicago, Washington DC
+>     Must rerun the program if flask is used.
+> 
+> country <CountryName>
+>     Show the weather conditions of cities in a country.
+>     The parameter <CountryName> is required. For example: USA, Canada, United Kingdom, Germany
+> 
+> region <RegionName>
+>     Show the weather conditions of cities in a region.
+>     The parameter <RegionName> is required. For example: Asia, Europe, Americas, Africa
