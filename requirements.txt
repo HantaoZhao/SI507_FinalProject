@@ -68,7 +68,7 @@ plotly==4.3.0
 prometheus-client==0.7.1
 promise==2.2.1
 prompt-toolkit==2.0.9
-protobuf==3.7.0
+protobuf==3.18.3
 pyasn1==0.4.7
 pyasn1-modules==0.2.6
 Pygments==2.3.1
